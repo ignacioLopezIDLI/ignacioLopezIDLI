@@ -13,17 +13,6 @@
                 alt="Typing SVG"
             /></a>
 </div>
-
-## About me
-
-- 👨‍💻 Software developer
-- 🌍 Traveler
-- 🌟 Doing Working Holiday in the Czech Republic
-- 🌎 World Packer [Member](https://www.worldpackers.com/es/users/1577124)
-- 🏡 Housesitter
-- 🎥 Check out my TikTok profile [Here!](https://www.tiktok.com/@ignaciolopez516?_t=8jeskGhytr3&_r=1)
-<br>
-
 ## Proyectos 
 
 <div style="display: flex; justify-content: center;">
@@ -34,11 +23,11 @@
         <div align="center">
           <a href="https://ignaciolopezibacache.com/" target="_blank"><img src="https://github.com/ignacioLopezIDLI/ignacioLopezIDLI/blob/main/Ignacio%20Lopez%20Web.png" width="400" alt="Mi Página Web"></a>
           <p>
-            <a href="URL_DE_TU_PAGINA_WEB" target="_blank">
-              <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+            <a href="https://github.com/ignacioLopezIDLI/Portafolio-Web-Nacho" target="_blank">
+              <img src="https://img.shields.io/badge/Code-191957?style=for-the-badge&logo=github&logoColor=white">
             </a>
-            <a href="URL_DE_TU_PAGINA_WEB" target="_blank">
-              <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+            <a href="https://ignaciolopezibacache.com/" target="_blank">
+              <img src="https://img.shields.io/badge/Website-rgb(247,%209,%205)?style=for-the-badge&logo=web&logoColor=white">
             </a>
           </p>
           <p>Here you can explore my portfolio and learn more about me. 🚀</p>
@@ -49,11 +38,11 @@
         <div align="center">
           <a href="https://www.worldpackers.com/es/users/1577124" target="_blank"><img src="https://github.com/ignacioLopezIDLI/ignacioLopezIDLI/blob/main/worldpakers.jpg" width="200" alt="Mi Perfil de World Paker"></a>
           <p>
-            <a href="URL_DE_TU_PERFIL_WORLD_PAKER" target="_blank">
-              <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+            <a href="https://www.worldpackers.com/es/users/1577124" target="_blank">
+              <img src="https://img.shields.io/badge/WorldPakers-191957?style=for-the-badge&logoColor=white">
             </a>
             <a href="URL_DE_TU_PERFIL_WORLD_PAKER" target="_blank">
-              <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+              <img src="https://img.shields.io/badge/TikTok-rgb(247,9,5)?style=for-the-badge&logo=tiktok&logoColor=white">
             </a>
           </p>
           <p>🌍 Here you can find my World Packer profile. Explore my travel experiences and connect with a fellow explorer! 🌐✈️.</p>
@@ -62,8 +51,39 @@
     </tr>
   </table>
 </div>
-
 <br>
+## About me
+
+<div align="center">
+  <table>
+    <tr>
+      <td><b>Profession:</b></td>
+      <td>👨‍💻 Software developer</td>
+    </tr>
+    <tr>
+      <td><b>Interests:</b></td>
+      <td>🌍 Traveler</td>
+    </tr>
+    <tr>
+      <td><b>Actually in :</b></td>
+      <td>🌟 Doing Working Holiday in the Czech Republic</td>
+    </tr>
+    <tr>
+      <td><b>World Packer:</b></td>
+      <td>🌎 <a href="https://www.worldpackers.com/es/users/1577124">World Packer Member</a></td>
+    </tr>
+    <tr>
+      <td><b>Housesitter:</b></td>
+      <td>🏡 Housesitter</td>
+    </tr>
+    <tr>
+      <td><b>Social Networks:</b></td>
+      <td>🎥 Check out my TikTok profile <a href="https://www.tiktok.com/@ignaciolopez516?_t=8jeskGhytr3&_r=1">Here!</a></td>
+    </tr>
+  </table>
+</div>
+
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
