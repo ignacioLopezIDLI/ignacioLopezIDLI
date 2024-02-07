@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/ignacioLopezIDLI/ignacioLopezIDLI/blob/main/software%20(2).png" alt="Banner">
+  <img src="https://github.com/ignacioLopezIDLI/ignacioLopezIDLI/blob/main/Foto%20De%20Fondo%20Para%20Linkedin%20Empresa%20De%20Marketing%20Digital%20Minimalista%20Elegante%20Blanco%20y%20Negro%20(3).png" alt="Banner">
 </div>
 <br>
 <div align="center">
